@@ -1,0 +1,10 @@
+name: CouponPlugin
+main: Kkevin14\CouponPlugin\CouponPlugin
+author: Kkevin14
+api: 4.0.0
+version: B1
+
+permissions:
+  coupon.command.manage:
+    default: op
+    description: permission for coupon manage command
